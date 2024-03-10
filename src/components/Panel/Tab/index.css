@@ -1,0 +1,28 @@
+.tab--root {
+  color: var(--cmpui-text-color);
+
+  align-items: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  font-size: 12px;
+  height: 100%;
+  justify-content: space-between;
+  padding: 0 8px;
+  width: fit-content;
+}
+
+.tab--root:hover {
+  background-color: var(--cmpui-bg-hover-color);
+}
+
+.tab--root[data-selected="true"] {
+  background-color: var(--cmpui-bg-focus-color);
+  color: white;
+  cursor: default;
+}
+
+.tab--root[data-selected="true"]:hover {
+  background-color: var(--cmpui-bg-focus-color);
+}
