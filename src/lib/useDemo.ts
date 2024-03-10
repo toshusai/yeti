@@ -6,7 +6,7 @@ import { loadProjectFromJson } from "./loadProjectFromJson";
 export function useDemo() {
   const globalState = useContext(GlobalStateContext);
   useEffect(() => {
-    fetch("/demo/project.json").then(async (res) => {
+    fetch("/yeti/demo/project.json").then(async (res) => {
       const project = await res.json();
       action(() => {
         globalState.project = loadProjectFromJson(
