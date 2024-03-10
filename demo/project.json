@@ -1,0 +1,603 @@
+{
+  "project": {
+    "id": "d9c464ae-adc4-4d3e-85e5-836a6b90ca22",
+    "name": "project",
+    "layers": [
+      {
+        "id": "05b5dd6d-eb7d-4450-8461-15cf6a722830",
+        "name": "Cmp UI",
+        "effects": [
+          {
+            "id": "9f715bae-79ee-4bd7-9f37-d83e691f8247",
+            "color": {
+              "h": 305.76,
+              "s": 0.6313131313131314,
+              "v": 0.7764705882352941,
+              "a": 1
+            },
+            "assetId": "8fd6ae66-a1d8-4e83-8159-7c1945419151",
+            "fontSize": 100.51246278093312,
+            "text": "Cmp UI",
+            "type": "text"
+          },
+          {
+            "type": "transform",
+            "x": 485.2561533582677,
+            "y": 258.1789075940723,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 100.27041869676492,
+            "y": 96.89023995763291,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 70,
+            "height": 64,
+            "assetId": "e5022046-a121-4cfc-9d09-a8bad146e702"
+          }
+        ],
+        "id": "a2096b85-ee7a-49e4-8e57-8fcfc5231db4",
+        "name": "angleinput--basic.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 311.16591123430703,
+            "y": 79.81332404110518,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 84,
+            "height": 32,
+            "assetId": "87d02815-0864-4212-86a6-61830a8fe1bd"
+          }
+        ],
+        "id": "817d0ae9-357f-498b-bd9a-21137187fdbc",
+        "name": "button--basic.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 670.6004940367907,
+            "y": 139.64143013208331,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 68,
+            "height": 24,
+            "assetId": "41abfb35-721b-4a0a-8b3b-6044717ca1d4"
+          }
+        ],
+        "id": "a87a46cc-e377-46af-a208-78b474241900",
+        "name": "checkbox--checked.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 162.63369593414103,
+            "y": 330.9640562257378,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 32,
+            "height": 40,
+            "assetId": "1a059156-e4b4-4ccb-9ce2-056c31de2f55"
+          }
+        ],
+        "id": "cd22e06c-993e-4b11-bbe1-3f485dfda525",
+        "name": "colorloupe--default.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 150.76463385672872,
+            "y": 398.634597144396,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 194,
+            "height": 222,
+            "assetId": "aa2903f3-0f37-4c6f-8d44-78ad22d311df"
+          }
+        ],
+        "id": "6ce5feaa-1191-44bd-b797-11c92f6b5aa0",
+        "name": "colorpickercircle--default.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 306.7628290650668,
+            "y": 417.7936951731122,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 100,
+            "height": 112,
+            "assetId": "a4aec448-9c03-4894-a211-a005203896ec"
+          }
+        ],
+        "id": "a4915c4e-68cb-4569-97a4-7e84e5f0dba4",
+        "name": "cubiccontrols--default.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 117.46893855063297,
+            "y": 209.3479773151861,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 83,
+            "height": 32,
+            "assetId": "f17b479c-d04d-4de7-bab1-df86388c8e88"
+          }
+        ],
+        "id": "ecc864cb-23cd-4b94-a62c-1d66b7ef6ff6",
+        "name": "iconbutton--basic.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 492.6072610127308,
+            "y": 83.5344838284014,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 98,
+            "height": 32,
+            "assetId": "5220ec89-c2bb-471d-8148-8cc919b94a71"
+          }
+        ],
+        "id": "a8eeb607-7cef-460f-9862-ed3b0c305207",
+        "name": "iconbutton--group.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 466.15926115332445,
+            "y": 455.51994583083297,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 146,
+            "height": 138,
+            "assetId": "0f989609-4c4b-4fff-ba79-92dfb96bd54b"
+          }
+        ],
+        "id": "7bba8dbc-d667-4b93-bdfb-9738cc6b0d66",
+        "name": "listitem--commands.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 754.9548424830333,
+            "y": 222.10863311623388,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 112,
+            "height": 74,
+            "assetId": "141a2507-af61-4da5-84da-cbed7936b580"
+          }
+        ],
+        "id": "e8e25d63-126e-4cd4-8b3d-d95c389fddef",
+        "name": "rectgizmo--basic.png"
+      },
+      {
+        "effects": [
+          { "type": "transform", "x": 662, "y": 12, "rotation": 0 },
+          {
+            "type": "image",
+            "width": 1276,
+            "height": 23,
+            "assetId": "7e347c9c-8ca2-4d3e-9847-b4871187f39f"
+          }
+        ],
+        "id": "8dbd8663-c432-4b14-a5ce-f043dd029255",
+        "name": "ruler--basic.png"
+      },
+      {
+        "effects": [
+          { "type": "transform", "x": 12, "y": 274.5, "rotation": 0 },
+          {
+            "type": "image",
+            "width": 23,
+            "height": 501,
+            "assetId": "b7ebb306-ac5e-4bbe-a407-8e52134d6a42"
+          }
+        ],
+        "id": "31f5fd0c-29f1-431d-ae55-cffb92b71383",
+        "name": "ruler--vertical.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 239.81165967991345,
+            "y": 244.40821524010855,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 98,
+            "height": 39,
+            "assetId": "063f67ba-fac4-476e-958d-7c625d1c8d05"
+          }
+        ],
+        "id": "62006b80-6572-4069-896f-92c59675cbf6",
+        "name": "select--basic.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 696.7775151700524,
+            "y": 75.29462997135627,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 200,
+            "height": 22,
+            "assetId": "d606e4bc-4a32-42dd-809e-5eb7c70141c8"
+          }
+        ],
+        "id": "9a508f48-c672-43d7-ab79-cc20c20857e7",
+        "name": "slider--basic.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 740.7032412720874,
+            "y": 395.4013739326454,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 86,
+            "height": 24,
+            "assetId": "3bb29043-dc8e-4ee9-9e57-ad34107dd6f2"
+          }
+        ],
+        "id": "146ff98a-bce0-4dc6-8f33-80580b998ff3",
+        "name": "switch--checked.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 670.0697599788335,
+            "y": 475.8359536346419,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 194,
+            "height": 67,
+            "assetId": "18635a04-6fcb-451a-a1e1-6c88a5d32d14"
+          }
+        ],
+        "id": "44204227-8280-4bd3-8a78-1eeeb9cc3cac",
+        "name": "textarea--basic.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 255.13530548244663,
+            "y": 148.20129188135076,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 196,
+            "height": 38,
+            "assetId": "a252d197-5654-4a62-a97e-b0c2bff9954f"
+          }
+        ],
+        "id": "e8170040-bed1-4f95-95e1-fb6132abe5c9",
+        "name": "textinput--basic.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 474.9376401745433,
+            "y": 170.84327820113455,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 90,
+            "height": 28,
+            "assetId": "eae700ad-720f-4137-a63d-05e18066debe"
+          }
+        ],
+        "id": "c12eebfd-fc96-4867-a0d0-ec25cfee51c0",
+        "name": "tooltip--presenter.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 888.309274631398,
+            "y": 192.50195836527308,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 116,
+            "height": 237,
+            "assetId": "7d1ca14f-ad44-4174-b902-7b68493e56d2"
+          }
+        ],
+        "id": "f8454746-a2d4-455b-8549-02572c8d7109",
+        "name": "treeview--basic.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 940.0006931292893,
+            "y": 488.4429938677704,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 200,
+            "height": 250,
+            "assetId": "32319f8c-a3e0-4d36-ada2-12601f65fab8"
+          }
+        ],
+        "id": "160830d5-dfc6-4410-ba0c-eb3fd607a74e",
+        "name": "selectrect--static.png"
+      },
+      {
+        "effects": [
+          { "type": "transform", "x": 664, "y": 384, "rotation": 0 },
+          {
+            "type": "image",
+            "width": 1280,
+            "height": 720,
+            "assetId": "92be4c37-03a8-480a-8a3b-1680a054a73b"
+          }
+        ],
+        "id": "cc015311-30e4-43c4-a27f-7bfc86f5a52a",
+        "name": "grid--basic.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 533.7490563233391,
+            "y": 348.7322021961169,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 192,
+            "height": 38,
+            "assetId": "484d2a5a-5e1f-4ffb-928e-6c853910b40a"
+          }
+        ],
+        "id": "d7c08739-9119-46aa-b76a-d61eda789e9f",
+        "name": "colorinput--primary.png"
+      },
+      {
+        "effects": [
+          {
+            "type": "transform",
+            "x": 752.0979184814099,
+            "y": 337.92693393650706,
+            "rotation": 0
+          },
+          {
+            "type": "image",
+            "width": 162,
+            "height": 24,
+            "assetId": "4514d860-702b-4b56-bd54-f4734f5e0d78"
+          }
+        ],
+        "id": "d63a9f2b-17e9-4601-b830-4267225e6f90",
+        "name": "menubarbutton--basic.png"
+      }
+    ],
+    "assets": [
+      { "id": "Arial", "type": "font", "name": "Arial", "url": "" },
+      {
+        "id": "8fd6ae66-a1d8-4e83-8159-7c1945419151",
+        "type": "font",
+        "name": "Agbalumo",
+        "url": "https://fonts.googleapis.com/css2?family=Agbalumo&display=swap"
+      },
+      {
+        "id": "e5022046-a121-4cfc-9d09-a8bad146e702",
+        "name": "angleinput--basic.png",
+        "url": "/demo/__screenshots__/angleinput--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "87d02815-0864-4212-86a6-61830a8fe1bd",
+        "name": "button--basic.png",
+        "url": "/demo/__screenshots__/button--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "41abfb35-721b-4a0a-8b3b-6044717ca1d4",
+        "name": "checkbox--checked.png",
+        "url": "/demo/__screenshots__/checkbox--checked.png",
+        "type": "image"
+      },
+      {
+        "id": "aa2903f3-0f37-4c6f-8d44-78ad22d311df",
+        "name": "colorpickercircle--default.png",
+        "url": "/demo/__screenshots__/colorpickercircle--default.png",
+        "type": "image"
+      },
+      {
+        "id": "1a059156-e4b4-4ccb-9ce2-056c31de2f55",
+        "name": "colorloupe--default.png",
+        "url": "/demo/__screenshots__/colorloupe--default.png",
+        "type": "image"
+      },
+      {
+        "id": "a4aec448-9c03-4894-a211-a005203896ec",
+        "name": "cubiccontrols--default.png",
+        "url": "/demo/__screenshots__/cubiccontrols--default.png",
+        "type": "image"
+      },
+      {
+        "id": "f17b479c-d04d-4de7-bab1-df86388c8e88",
+        "name": "iconbutton--basic.png",
+        "url": "/demo/__screenshots__/iconbutton--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "5220ec89-c2bb-471d-8148-8cc919b94a71",
+        "name": "iconbutton--group.png",
+        "url": "/demo/__screenshots__/iconbutton--group.png",
+        "type": "image"
+      },
+      {
+        "id": "0f989609-4c4b-4fff-ba79-92dfb96bd54b",
+        "name": "listitem--commands.png",
+        "url": "/demo/__screenshots__/listitem--commands.png",
+        "type": "image"
+      },
+      {
+        "id": "5e574105-8a38-4ac7-b432-395ab389acc5",
+        "name": "floatbox--basic.png",
+        "url": "/demo/__screenshots__/floatbox--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "141a2507-af61-4da5-84da-cbed7936b580",
+        "name": "rectgizmo--basic.png",
+        "url": "/demo/__screenshots__/rectgizmo--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "7e347c9c-8ca2-4d3e-9847-b4871187f39f",
+        "name": "ruler--basic.png",
+        "url": "/demo/__screenshots__/ruler--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "b7ebb306-ac5e-4bbe-a407-8e52134d6a42",
+        "name": "ruler--vertical.png",
+        "url": "/demo/__screenshots__/ruler--vertical.png",
+        "type": "image"
+      },
+      {
+        "id": "063f67ba-fac4-476e-958d-7c625d1c8d05",
+        "name": "select--basic.png",
+        "url": "/demo/__screenshots__/select--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "d606e4bc-4a32-42dd-809e-5eb7c70141c8",
+        "name": "slider--basic.png",
+        "url": "/demo/__screenshots__/slider--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "15dd0e20-add1-40ef-aaf8-6b5a18bcc69a",
+        "name": "slidernumberfield--basic.png",
+        "url": "/demo/__screenshots__/slidernumberfield--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "3bb29043-dc8e-4ee9-9e57-ad34107dd6f2",
+        "name": "switch--checked.png",
+        "url": "/demo/__screenshots__/switch--checked.png",
+        "type": "image"
+      },
+      {
+        "id": "18635a04-6fcb-451a-a1e1-6c88a5d32d14",
+        "name": "textarea--basic.png",
+        "url": "/demo/__screenshots__/textarea--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "a252d197-5654-4a62-a97e-b0c2bff9954f",
+        "name": "textinput--basic.png",
+        "url": "/demo/__screenshots__/textinput--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "eae700ad-720f-4137-a63d-05e18066debe",
+        "name": "tooltip--presenter.png",
+        "url": "/demo/__screenshots__/tooltip--presenter.png",
+        "type": "image"
+      },
+      {
+        "id": "7d1ca14f-ad44-4174-b902-7b68493e56d2",
+        "name": "treeview--basic.png",
+        "url": "/demo/__screenshots__/treeview--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "32319f8c-a3e0-4d36-ada2-12601f65fab8",
+        "name": "selectrect--static.png",
+        "url": "/demo/__screenshots__/selectrect--static.png",
+        "type": "image"
+      },
+      {
+        "id": "92be4c37-03a8-480a-8a3b-1680a054a73b",
+        "name": "grid--basic.png",
+        "url": "/demo/__screenshots__/grid--basic.png",
+        "type": "image"
+      },
+      {
+        "id": "484d2a5a-5e1f-4ffb-928e-6c853910b40a",
+        "name": "colorinput--primary.png",
+        "type": "image",
+        "url": "/demo/__screenshots__/colorinput--primary.png"
+      },
+      {
+        "id": "4514d860-702b-4b56-bd54-f4734f5e0d78",
+        "name": "menubarbutton--basic.png",
+        "type": "image",
+        "url": "/demo/__screenshots__/menubarbutton--basic.png"
+      }
+    ],
+    "canvasHeight": 540,
+    "canvasWidth": 960
+  },
+  "editorState": {
+    "toolMode": "default",
+    "selectedLayerIds": ["05b5dd6d-eb7d-4450-8461-15cf6a722830"],
+    "view": { "showGrid": false, "showRulers": true },
+    "canvasView": {
+      "x": 50,
+      "y": 50,
+      "scale": 0.75
+    }
+  }
+}
