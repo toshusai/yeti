@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@toshusai/cmpui':
-    specifier: 1.0.0-alpha.3
-    version: 1.0.0-alpha.3(@types/react-dom@18.2.17)(@types/react@18.2.38)(react-dom@18.2.0)(react@18.2.0)
+    specifier: 1.0.0-alpha.4
+    version: 1.0.0-alpha.4(@types/react-dom@18.2.17)(@types/react@18.2.38)(react-dom@18.2.0)(react@18.2.0)
   classnames:
     specifier: ^2.3.2
     version: 2.3.2
@@ -1506,8 +1506,8 @@ packages:
     resolution: {integrity: sha512-+Fj43pSMwJs4KRrH/938Uf+uAELIgVBmQzg/q1YG10djyfA3TnrU8N8XzqCh/okZdszqBQTZf96idMfE5lnwTA==}
     dev: true
 
-  /@toshusai/cmpui@1.0.0-alpha.3(@types/react-dom@18.2.17)(@types/react@18.2.38)(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-l32rJ42/u0mHtQYMSSsPHpXSP3qvC0Xg75FU2rY1gXhahtOWv+XBFkSkppX8lynT0v9Ry+gajGAKojEkkojf8Q==}
+  /@toshusai/cmpui@1.0.0-alpha.4(@types/react-dom@18.2.17)(@types/react@18.2.38)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-Tz634OfVmk6lAo91O5gAi11E+DWJVjg+Iz6Yppscpy+9qQrRGokWdopxeO6W5iffdOK93R6z4mUGTUVfvI1MJw==}
     peerDependencies:
       react: ^18.2.0
       react-dom: ^18.2.0
