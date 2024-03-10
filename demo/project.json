@@ -439,152 +439,152 @@
       {
         "id": "e5022046-a121-4cfc-9d09-a8bad146e702",
         "name": "angleinput--basic.png",
-        "url": "/demo/__screenshots__/angleinput--basic.png",
+        "url": "/yeti/demo/__screenshots__/angleinput--basic.png",
         "type": "image"
       },
       {
         "id": "87d02815-0864-4212-86a6-61830a8fe1bd",
         "name": "button--basic.png",
-        "url": "/demo/__screenshots__/button--basic.png",
+        "url": "/yeti/demo/__screenshots__/button--basic.png",
         "type": "image"
       },
       {
         "id": "41abfb35-721b-4a0a-8b3b-6044717ca1d4",
         "name": "checkbox--checked.png",
-        "url": "/demo/__screenshots__/checkbox--checked.png",
+        "url": "/yeti/demo/__screenshots__/checkbox--checked.png",
         "type": "image"
       },
       {
         "id": "aa2903f3-0f37-4c6f-8d44-78ad22d311df",
         "name": "colorpickercircle--default.png",
-        "url": "/demo/__screenshots__/colorpickercircle--default.png",
+        "url": "/yeti/demo/__screenshots__/colorpickercircle--default.png",
         "type": "image"
       },
       {
         "id": "1a059156-e4b4-4ccb-9ce2-056c31de2f55",
         "name": "colorloupe--default.png",
-        "url": "/demo/__screenshots__/colorloupe--default.png",
+        "url": "/yeti/demo/__screenshots__/colorloupe--default.png",
         "type": "image"
       },
       {
         "id": "a4aec448-9c03-4894-a211-a005203896ec",
         "name": "cubiccontrols--default.png",
-        "url": "/demo/__screenshots__/cubiccontrols--default.png",
+        "url": "/yeti/demo/__screenshots__/cubiccontrols--default.png",
         "type": "image"
       },
       {
         "id": "f17b479c-d04d-4de7-bab1-df86388c8e88",
         "name": "iconbutton--basic.png",
-        "url": "/demo/__screenshots__/iconbutton--basic.png",
+        "url": "/yeti/demo/__screenshots__/iconbutton--basic.png",
         "type": "image"
       },
       {
         "id": "5220ec89-c2bb-471d-8148-8cc919b94a71",
         "name": "iconbutton--group.png",
-        "url": "/demo/__screenshots__/iconbutton--group.png",
+        "url": "/yeti/demo/__screenshots__/iconbutton--group.png",
         "type": "image"
       },
       {
         "id": "0f989609-4c4b-4fff-ba79-92dfb96bd54b",
         "name": "listitem--commands.png",
-        "url": "/demo/__screenshots__/listitem--commands.png",
+        "url": "/yeti/demo/__screenshots__/listitem--commands.png",
         "type": "image"
       },
       {
         "id": "5e574105-8a38-4ac7-b432-395ab389acc5",
         "name": "floatbox--basic.png",
-        "url": "/demo/__screenshots__/floatbox--basic.png",
+        "url": "/yeti/demo/__screenshots__/floatbox--basic.png",
         "type": "image"
       },
       {
         "id": "141a2507-af61-4da5-84da-cbed7936b580",
         "name": "rectgizmo--basic.png",
-        "url": "/demo/__screenshots__/rectgizmo--basic.png",
+        "url": "/yeti/demo/__screenshots__/rectgizmo--basic.png",
         "type": "image"
       },
       {
         "id": "7e347c9c-8ca2-4d3e-9847-b4871187f39f",
         "name": "ruler--basic.png",
-        "url": "/demo/__screenshots__/ruler--basic.png",
+        "url": "/yeti/demo/__screenshots__/ruler--basic.png",
         "type": "image"
       },
       {
         "id": "b7ebb306-ac5e-4bbe-a407-8e52134d6a42",
         "name": "ruler--vertical.png",
-        "url": "/demo/__screenshots__/ruler--vertical.png",
+        "url": "/yeti/demo/__screenshots__/ruler--vertical.png",
         "type": "image"
       },
       {
         "id": "063f67ba-fac4-476e-958d-7c625d1c8d05",
         "name": "select--basic.png",
-        "url": "/demo/__screenshots__/select--basic.png",
+        "url": "/yeti/demo/__screenshots__/select--basic.png",
         "type": "image"
       },
       {
         "id": "d606e4bc-4a32-42dd-809e-5eb7c70141c8",
         "name": "slider--basic.png",
-        "url": "/demo/__screenshots__/slider--basic.png",
+        "url": "/yeti/demo/__screenshots__/slider--basic.png",
         "type": "image"
       },
       {
         "id": "15dd0e20-add1-40ef-aaf8-6b5a18bcc69a",
         "name": "slidernumberfield--basic.png",
-        "url": "/demo/__screenshots__/slidernumberfield--basic.png",
+        "url": "/yeti/demo/__screenshots__/slidernumberfield--basic.png",
         "type": "image"
       },
       {
         "id": "3bb29043-dc8e-4ee9-9e57-ad34107dd6f2",
         "name": "switch--checked.png",
-        "url": "/demo/__screenshots__/switch--checked.png",
+        "url": "/yeti/demo/__screenshots__/switch--checked.png",
         "type": "image"
       },
       {
         "id": "18635a04-6fcb-451a-a1e1-6c88a5d32d14",
         "name": "textarea--basic.png",
-        "url": "/demo/__screenshots__/textarea--basic.png",
+        "url": "/yeti/demo/__screenshots__/textarea--basic.png",
         "type": "image"
       },
       {
         "id": "a252d197-5654-4a62-a97e-b0c2bff9954f",
         "name": "textinput--basic.png",
-        "url": "/demo/__screenshots__/textinput--basic.png",
+        "url": "/yeti/demo/__screenshots__/textinput--basic.png",
         "type": "image"
       },
       {
         "id": "eae700ad-720f-4137-a63d-05e18066debe",
         "name": "tooltip--presenter.png",
-        "url": "/demo/__screenshots__/tooltip--presenter.png",
+        "url": "/yeti/demo/__screenshots__/tooltip--presenter.png",
         "type": "image"
       },
       {
         "id": "7d1ca14f-ad44-4174-b902-7b68493e56d2",
         "name": "treeview--basic.png",
-        "url": "/demo/__screenshots__/treeview--basic.png",
+        "url": "/yeti/demo/__screenshots__/treeview--basic.png",
         "type": "image"
       },
       {
         "id": "32319f8c-a3e0-4d36-ada2-12601f65fab8",
         "name": "selectrect--static.png",
-        "url": "/demo/__screenshots__/selectrect--static.png",
+        "url": "/yeti/demo/__screenshots__/selectrect--static.png",
         "type": "image"
       },
       {
         "id": "92be4c37-03a8-480a-8a3b-1680a054a73b",
         "name": "grid--basic.png",
-        "url": "/demo/__screenshots__/grid--basic.png",
+        "url": "/yeti/demo/__screenshots__/grid--basic.png",
         "type": "image"
       },
       {
         "id": "484d2a5a-5e1f-4ffb-928e-6c853910b40a",
         "name": "colorinput--primary.png",
         "type": "image",
-        "url": "/demo/__screenshots__/colorinput--primary.png"
+        "url": "/yeti/demo/__screenshots__/colorinput--primary.png"
       },
       {
         "id": "4514d860-702b-4b56-bd54-f4734f5e0d78",
         "name": "menubarbutton--basic.png",
         "type": "image",
-        "url": "/demo/__screenshots__/menubarbutton--basic.png"
+        "url": "/yeti/demo/__screenshots__/menubarbutton--basic.png"
       }
     ],
     "canvasHeight": 540,
